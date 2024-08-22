@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="EMS">
+        
+    <wb-module deploy-name="CAT_22RP04496">
+                
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="EMS"/>
-        <property name="java-output-path" value="/EMS/build/classes"/>
+                
+        <property name="java-output-path" value="/CAT_22RP04496/build/classes"/>
+        <property name="context-root" value="CAT_22RP04496"/>
+            
     </wb-module>
+    
 </project-modules>
